@@ -8,16 +8,6 @@ The goal is to provide clear, reproducible, and well-documented analyses for qui
 
 ---
 
-### **🗂️ Standard Project Structure**
-
-All included projects adhere to the following file structure for clarity and consistency:
-
-. ├── project-name-1/ │ ├── Notebook.ipynb # The main Jupyter Notebook with code and analysis │ ├── README.md # Project-specific documentation (Context, Model, Results) │ └── data/ # Data files used for the project ├── project-name-2/ │ ├── ... └── README.md # This main repository file
-
-
----
-
-
 ### **🛠️ Technical Environment**
 
 This section outlines the primary tools and libraries used across the projects:
